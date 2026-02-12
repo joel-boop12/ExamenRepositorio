@@ -1,5 +1,5 @@
 public static void multiplos(String[] args) {
-gfhfghgh
+gfhfghghgfdg
     for (int i=0; i<=numeroMax;i++){
         if(i%7==0){
             System.out.println("Multiplo de 7: "+i);
@@ -12,3 +12,5 @@ gfhfghgh
         }
     }
 }
+hhhty
+htyh
